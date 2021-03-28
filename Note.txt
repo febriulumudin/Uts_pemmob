@@ -1,0 +1,6 @@
+Aplikasi pembuatan di App Inventor
+
+Cara pemakaian : 
+-tekan pada gambar dombanya untuk menghasilkan suara
+-goyangkan hp untuk menghilangkan dombanya
+-tekan tombol teriaklah domba untuk memunculkan kembali
